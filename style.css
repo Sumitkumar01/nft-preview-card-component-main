@@ -41,6 +41,7 @@ h1 {
     color: var(--border);
     font-weight: var(--bold-font-Weight);
     font-family: 'Outfit', sans-serif;
+    white-space: nowrap;
 }
 span {
     color: var(--border);
